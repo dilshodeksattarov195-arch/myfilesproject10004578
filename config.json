@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderverify",
+        "uuid": 18824736,
+        "checksum": "8ihvzq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
